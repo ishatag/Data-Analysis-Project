@@ -58,7 +58,7 @@ Data Export: Saved as .csv and .xlsx for Power BI
 
 📊 Power BI – Interactive Dashboard
 
-🔗 View Dashboard:
+🔗 View Dashboard
 Link: https://app.powerbi.com/reportEmbed?reportId=5ec07e0b-db87-45f7-9817-d32e193a2d3e&autoAuth=true&ctid=76ae1115-1efc-4af2-a536-e2b2443af1a0
 
 Using the modified dataset, an interactive Power BI dashboard was created with:
