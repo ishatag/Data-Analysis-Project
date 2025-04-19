@@ -27,8 +27,12 @@ Applied a 3% tax increase to unit prices
 Increased France’s revenue by 10% for regional impact simulation
 
 Export: Saved the modified dataset (.csv & .xlsx) for use in Power BI
-**
+
+
 **Power BI – Interactive Dashboard Analysis****
+
+Link: https://app.powerbi.com/reportEmbed?reportId=5ec07e0b-db87-45f7-9817-d32e193a2d3e&autoAuth=true&ctid=76ae1115-1efc-4af2-a536-e2b2443af1a0
+
 Using the modified dataset, an interactive Power BI dashboard was created to highlight the following:
 
 🔹 Customer Insights
